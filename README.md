@@ -1,4 +1,4 @@
-# DESARROLLO-FRONTEND-I
+# DESARROLLO FRONTEND I
 
 Este repositorio es un pirmer acercamiento al desarrollo front end, dentro del plan de estudios de CESUN, 8vo cuatrimestre
 
